@@ -11,6 +11,7 @@ uint8 FUNCTION = 6
 uint8 EXPRESSION = 7
 uint8 FUNCTION_MODIFIER = 8
 uint8 NUMBER = 9
+uint8 FOR_ALL = 24
 
 # Expression types
 uint8 COMP_EQ = 10
